@@ -3,3 +3,4 @@ class User(object):
         self.name = name
         self.age = age
         self.sex = sex
+		self.a = 1234
